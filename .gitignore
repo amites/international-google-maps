@@ -1,0 +1,4 @@
+# The global gitignore's macOS "Icon?" rule matches this repo's icons/ directory
+# on case-insensitive filesystems, which silently excludes the extension icon
+# from the packaged build. Re-include it explicitly.
+!icons/

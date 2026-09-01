@@ -6,7 +6,7 @@ Restore Lake Ontario and Gulf of Mexico in Google Maps.
 
 ## Detailed description
 
-Google Maps International Names restores the internationally recognized labels **Lake Ontario** and **Gulf of Mexico** in Google Maps.
+International Names for Google Maps restores the internationally recognized labels **Lake Ontario** and **Gulf of Mexico** in Google Maps.
 
 Google Maps renders many geographic labels in a private map layer. This extension places a lightweight visual label above that layer when the relevant location and normal label zoom level are visible:
 
