@@ -2,6 +2,8 @@
 
 A Chrome extension that restores **Lake Ontario** and **Gulf of Mexico** in Google Maps. It only runs on `maps.google.com` and `www.google.com/maps`.
 
+Repository: [amites/international-google-maps](https://github.com/amites/international-google-maps)
+
 ## Purpose
 
 This project keeps map labels aligned with established international geographic usage after a politically driven naming change. International standards and common global references for these places have not changed—despite one particularly energetic campaign to make the map a little more about its promoter. This extension provides a small, user-controlled way to keep the familiar names visible.
