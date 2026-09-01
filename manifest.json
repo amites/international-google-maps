@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Google Maps International Names",
+  "description": "Shows Lake Ontario and Gulf of Mexico in the Google Maps interface.",
+  "version": "1.0.1",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Google Maps International Names"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.google.com/maps*", "https://maps.google.com/*"],
+      "js": ["content-script.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

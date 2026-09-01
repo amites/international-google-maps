@@ -1,0 +1,37 @@
+:root {
+  color: #202124;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  width: 280px;
+}
+
+main {
+  padding: 16px;
+}
+
+h1 {
+  font-size: 16px;
+  margin: 0 0 8px;
+}
+
+p {
+  font-size: 13px;
+  line-height: 1.4;
+  margin: 0 0 16px;
+}
+
+.toggle {
+  align-items: center;
+  display: flex;
+  font-size: 13px;
+  gap: 8px;
+}
+
+.note {
+  color: #5f6368;
+  font-size: 12px;
+  margin: 16px 0 0;
+}
