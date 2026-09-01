@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Google Maps International Names",
+  "name": "International Names for Google Maps",
   "description": "Restore Lake Ontario and Gulf of Mexico in Google Maps.",
   "version": "1.0.1",
   "permissions": ["storage"],
@@ -12,7 +12,7 @@
       "128": "icons/icon-128.png"
     },
     "default_popup": "popup.html",
-    "default_title": "Google Maps International Names"
+    "default_title": "International Names for Google Maps"
   },
   "content_scripts": [
     {
