@@ -2,3 +2,5 @@
 # on case-insensitive filesystems, which silently excludes the extension icon
 # from the packaged build. Re-include it explicitly.
 !icons/
+store-assets/
+
